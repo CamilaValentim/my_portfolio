@@ -1,0 +1,51 @@
+*{
+    color: #E0EEEE;
+}
+body{
+    background-image: url(https://image.freepik.com/fotos-gratis/fundo-3d-abstrato-hexagonal_48397-196.jpg);
+    background-repeat:initial;
+    background-color: lightcyan 30px;
+    background-color: black;
+    
+
+}
+#retrato{
+    border-radius: 100px;
+    
+    
+}
+#borda{
+    background-color:#8B7D7B ;
+;
+    width: 800px;
+    margin: 100px auto;
+    text-align: center;
+    padding: 20px;
+                
+}
+ul{
+    color:white;
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    font-size: 18px;
+}
+.conteudodestaque{
+    font-size: 18px;
+}
+.conteudo{
+    font-size: 18px;
+}
+.logo{
+    width: 10px;
+    height: 10px;
+}
+button{
+    color:white;
+    background-color:#796d6b;
+    padding: 4px 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px ;
+
+}
