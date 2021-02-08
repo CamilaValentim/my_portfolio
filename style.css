@@ -1,6 +1,7 @@
 *{
     color: #E0EEEE;
 }
+<<<<<<< HEAD
 
 body{
     background: #363636;
@@ -80,6 +81,32 @@ a{
 
 ul{
     color:#00CDCD;
+=======
+body{
+    background-image: url(https://image.freepik.com/fotos-gratis/fundo-3d-abstrato-hexagonal_48397-196.jpg);
+    background-repeat:initial;
+    background-color: lightcyan 30px;
+    background-color: black;
+    
+
+}
+#retrato{
+    border-radius: 100px;
+    
+    
+}
+#borda{
+    background-color:#8B7D7B ;
+;
+    width: 800px;
+    margin: 100px auto;
+    text-align: center;
+    padding: 20px;
+                
+}
+ul{
+    color:white;
+>>>>>>> c3333edb27f5ccf108cfd1c527abe6cec56acfb8
     list-style-type: none;
     text-align: center;
 }
@@ -92,6 +119,7 @@ li{
 .conteudo{
     font-size: 18px;
 }
+<<<<<<< HEAD
 
 
 #quemsoueu{
@@ -148,3 +176,17 @@ p{
 
 }
 
+=======
+.logo{
+    width: 10px;
+    height: 10px;
+}
+button{
+    color:white;
+    background-color:#796d6b;
+    padding: 4px 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px ;
+
+}
+>>>>>>> c3333edb27f5ccf108cfd1c527abe6cec56acfb8
