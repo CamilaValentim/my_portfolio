@@ -1,0 +1,150 @@
+*{
+    color: #E0EEEE;
+}
+
+body{
+    background: #363636;
+    background-repeat:initial;
+    background-color: lightcyan 30px;
+    background-color: #363535;
+}
+
+#retrato{
+    width: 400px;
+    display: inline-block;
+    float: left; 
+    left: 30px;
+}
+
+h1{
+    color:#ecf3f3
+}
+#borda{
+    background-color: rgb(43, 42, 42)
+;
+    width: 1000px;
+    margin: 100px auto;
+    text-align: center;
+    padding: 20px;                   
+}
+
+#borda_eu{
+    background-color:#EE6363;
+    width: 150px;
+    margin: 50px ;
+    text-align: center;
+    padding: 20px;
+    float: left;
+    border-radius:25px 0px 25px 0px;
+    font-size: Helvetica;
+    
+    
+}
+
+#borda_soft{
+    background-color: #95bde0;
+    width: 150px;
+    margin: 50px;
+    text-align: center;
+    padding: 20px;
+    border-radius:25px 0px 25px 0px;
+    font-family: Helvetica;
+    display: inline-block;
+    float:left;
+
+}
+#borda_hard{
+    background-color: #20B2AA;
+    width: 150px;
+    margin: 50px;
+    text-align: center black;
+    padding: 20px;
+    border-radius:25px 0px 25px 0px;
+    float:left;
+    display: inline-block;
+    
+}
+
+#redes_sociais{
+    background-color: #FF7F50;
+    width: 150px;
+    margin: 50px;
+    text-align: center;
+    padding: 20px;
+    float:left;
+    border-radius:25px 0px 25px 0px;
+}
+a{
+    text-decoration: none;
+}
+
+ul{
+    color:#00CDCD;
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    font-size: 18px;
+}
+.conteudodestaque{
+    font-size: 18px;
+}
+.conteudo{
+    font-size: 18px;
+}
+
+
+#quemsoueu{
+    width: 300px;
+    margin: 50px ;
+    align:center;
+    padding: 20px;
+    border-radius:25px 0px 25px 0px;
+    font-size: Helvetica;
+    display: inline;
+    
+
+}
+
+#softskills{
+    width: 300px;
+    margin: 50px;
+    text-align: center;
+    padding: 30px;
+    border-radius:25px 0px 25px 0px;
+    font-family: Helvetica;
+    display: inline-block;
+}
+
+#hardskills{
+    width: 300px;
+    margin: 50px;
+    text-align: center;
+    padding: 20px;
+    border-radius:25px 0px 25px 0px;
+    font-family: Helvetica;
+    display: inline-block;
+
+}
+
+#rede {
+    align:center;
+}
+
+#hard_icon{
+    display: inline-block;
+    float: left; 
+    left: 30px;
+    margin-bottom: 60px;
+
+}
+
+#soft{
+    margin-top: 30px;
+}
+
+p{
+    font-size: 17px;
+
+}
+
